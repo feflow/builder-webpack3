@@ -1,5 +1,5 @@
 {
-  "name": "@tencent/builder-webpack",
+  "name": "builder-webpack",
   "version": "0.1.0",
   "description": "webpack项目构建器.",
   "main": "lib/index.js",
