@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://git.code.oa.com/feflow/builder-webpack"
+    "url": "https://github.com/iv-web/builder-webpack"
   },
   "keywords": [
     "webpack",
