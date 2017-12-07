@@ -1,5 +1,15 @@
+<a name="0.1.4"></a>
+## [0.1.4](https://github.com/iv-web/builder-webpack/compare/v0.1.3...v0.1.4) (2017-12-07)
+
+
+### Features
+
+* 支持css绝对路径的写法 ([a9f2d2b](https://github.com/iv-web/builder-webpack/commit/a9f2d2b))
+
+
+
 <a name="0.1.3"></a>
-## 0.1.3 (2017-12-06)
+## [0.1.3](https://github.com/iv-web/builder-webpack/compare/56c9b55...v0.1.3) (2017-12-06)
 
 
 ### Bug Fixes
