@@ -1,3 +1,13 @@
+<a name="0.1.5"></a>
+## [0.1.5](https://github.com/iv-web/builder-webpack/compare/v0.1.4...v0.1.5) (2017-12-09)
+
+
+### Features
+
+* 支持非git项目类型的构建 ([8953557](https://github.com/iv-web/builder-webpack/commit/8953557))
+
+
+
 <a name="0.1.4"></a>
 ## [0.1.4](https://github.com/iv-web/builder-webpack/compare/v0.1.3...v0.1.4) (2017-12-07)
 
