@@ -1,6 +1,6 @@
 {
   "name": "builder-webpack3",
-  "version": "0.2.0-beta.3",
+  "version": "0.2.0-beta.4",
   "description": "webpack项目构建器.",
   "main": "lib/index.js",
   "scripts": {
@@ -18,6 +18,7 @@
     "feflow"
   ],
   "dependencies": {
+    "babel-core": "^6.26.0",
     "autoprefixer-loader": "^3.2.0",
     "caniuse-db": "^1.0.30000764",
     "clean-webpack-plugin": "^0.1.17",
