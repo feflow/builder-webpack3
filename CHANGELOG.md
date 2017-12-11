@@ -1,4 +1,5 @@
 <a name="0.2.0"></a>
+# [0.2.0](https://github.com/iv-web/builder-webpack/compare/v0.2.0-beta.4...v0.2.0) (2017-12-11)
 
 ### Bug Fixes
 
