@@ -1,44 +1,12 @@
 <a name="0.2.0"></a>
-# [0.2.0](https://github.com/iv-web/builder-webpack/compare/v0.2.0-beta.4...v0.2.0) (2017-12-11)
-
-
-
-<a name="0.2.0-beta.4"></a>
-# [0.2.0-beta.4](https://github.com/iv-web/builder-webpack/compare/v0.2.0-beta.3...v0.2.0-beta.4) (2017-12-11)
-
 
 ### Bug Fixes
 
 * clean public folder path ([7822a3a](https://github.com/iv-web/builder-webpack/commit/7822a3a))
-
-
-
-<a name="0.2.0-beta.3"></a>
-# [0.2.0-beta.3](https://github.com/iv-web/builder-webpack/compare/v0.2.0-beta.2...v0.2.0-beta.3) (2017-12-11)
-
-
-### Bug Fixes
-
 * remove loader and plugin dependencies in project. ([da9bafc](https://github.com/iv-web/builder-webpack/commit/da9bafc))
-
-
-
-<a name="0.2.0-beta.2"></a>
-# [0.2.0-beta.2](https://github.com/iv-web/builder-webpack/compare/v0.2.0-beta.1...v0.2.0-beta.2) (2017-12-10)
-
-
-### Bug Fixes
-
 * cli show colors and repair dependencies. ([2e8640d](https://github.com/iv-web/builder-webpack/commit/2e8640d))
 
-
-
-<a name="0.2.0-beta.1"></a>
-# [0.2.0-beta.1](https://github.com/iv-web/builder-webpack/compare/v0.1.5...v0.2.0-beta.1) (2017-12-10)
-
-
 ### Features
-
 * 集成dev和build命令 ([2baa8ec](https://github.com/iv-web/builder-webpack/commit/2baa8ec))
 
 
