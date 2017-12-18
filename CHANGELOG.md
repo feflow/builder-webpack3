@@ -1,3 +1,18 @@
+<a name="0.2.3"></a>
+## [0.2.3](https://github.com/iv-web/builder-webpack/compare/v0.2.1...v0.2.3) (2017-12-18)
+
+
+### Bug Fixes
+
+* 打包的静态资源路径问题修复 ([55ad4c1](https://github.com/iv-web/builder-webpack/commit/55ad4c1))
+
+
+### Features
+
+* 对打包出来的html里面replace掉cdn目录路径 ([db9f88a](https://github.com/iv-web/builder-webpack/commit/db9f88a))
+
+
+
 <a name="0.2.1"></a>
 ## [0.2.1](https://github.com/iv-web/builder-webpack/compare/v0.2.0...v0.2.1) (2017-12-18)
 
@@ -10,7 +25,6 @@
 
 <a name="0.2.0"></a>
 # [0.2.0](https://github.com/iv-web/builder-webpack/compare/v0.2.0-beta.4...v0.2.0) (2017-12-11)
-
 
 ### Bug Fixes
 
