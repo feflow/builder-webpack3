@@ -1,6 +1,6 @@
 {
   "name": "builder-webpack3",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "webpack项目构建器.",
   "main": "lib/index.js",
   "scripts": {
@@ -30,6 +30,7 @@
     "glob": "^7.1.2",
     "happypack": "^4.0.0",
     "html-loader": "^0.5.1",
+    "html-string-replace-webpack-plugin": "^1.0.5",
     "html-webpack-externals-plugin": "^3.6.0",
     "html-webpack-inline-source-plugin": "0.0.9",
     "html-webpack-plugin": "^2.30.1",
