@@ -1,6 +1,6 @@
 {
   "name": "builder-webpack3",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "webpack项目构建器.",
   "main": "lib/index.js",
   "scripts": {
@@ -18,10 +18,12 @@
     "feflow"
   ],
   "dependencies": {
-    "babel-core": "^6.26.0",
     "autoprefixer-loader": "^3.2.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
     "caniuse-db": "^1.0.30000764",
     "clean-webpack-plugin": "^0.1.17",
+    "css-loader": "^0.28.7",
     "express": "^4.16.2",
     "extract-text-webpack-plugin": "^3.0.2",
     "file-loader": "^1.1.5",
@@ -33,10 +35,9 @@
     "html-webpack-plugin": "^2.30.1",
     "px2rem-loader": "^0.1.7",
     "raw-loader": "^0.5.1",
-    "css-loader": "^0.28.7",
+    "replace-bundle-webpack-plugin": "^1.0.0",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.19.0",
-    "babel-loader": "^7.1.2",
     "uglify-js": "^2.8.29",
     "webpack": "^3.8.1",
     "webpack-dev-middleware": "^1.12.2",
