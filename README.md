@@ -53,7 +53,7 @@ $ feflow dev      # 本地开发时的命令
 $ feflow build    # 发布时的打包命令, 打出的包在工程的public目录, 包含 cdn, webserver 和 offline 三个文件夹
 ```
 
-### 通过 npm script 运行命令
+### 或者通过 npm script 运行命令
 在根目录下面创建webpack.config.js 和 webpack.dev.js文件
 
 webpack.config.js文件内容
@@ -78,17 +78,25 @@ module.exports = require('builder-webpack3').devConfig;
   }
 ```
 
-### 注意事项
-index.html 里面的 inline 语法糖写法，后续会支持fis3里面的inline语法糖
+### 说明
+同时支持Fis3项目的inline语法糖写法和ejs的写法
 
 inline html
 ``` bash
+# ejs inline语法
 ${require('raw-loader!../../assets/inline/meta.html')}
+
+# fis3 里面的 inline 写法，已经支持
+<!--inline[/assets/inline/meta.html]-->
 ```
 
 inline javascript
 ``` bash
+# ejs inline语法
 <script>${require('raw-loader!babel-loader!../../node_modules/@tencent/report-whitelist')}</script>
+
+# fis3 里面的 inline 写法，已经支持
+<script src="@tencent/report-whitelist?__inline"></script>
 ```
 
 ## 版本日志
