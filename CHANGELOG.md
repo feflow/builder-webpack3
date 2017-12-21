@@ -1,3 +1,13 @@
+<a name="0.2.6"></a>
+## [0.2.6](https://github.com/iv-web/builder-webpack/compare/v0.2.5...v0.2.6) (2017-12-21)
+
+
+### Bug Fixes
+
+* 清楚public目录bug修复. ([b4a7371](https://github.com/iv-web/builder-webpack/commit/b4a7371))
+
+
+
 <a name="0.2.5"></a>
 ## [0.2.5](https://github.com/iv-web/builder-webpack/compare/v0.2.4...v0.2.5) (2017-12-21)
 
@@ -45,6 +55,7 @@
 
 <a name="0.2.0"></a>
 # [0.2.0](https://github.com/iv-web/builder-webpack/compare/v0.2.0-beta.4...v0.2.0) (2017-12-11)
+
 
 
 ### Bug Fixes
