@@ -37,6 +37,7 @@
     "px2rem-loader": "^0.1.7",
     "raw-loader": "^0.5.1",
     "replace-bundle-webpack-plugin": "^1.0.0",
+    "replace-text-loader": "^0.1.0",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.19.0",
     "uglify-js": "^2.8.29",
