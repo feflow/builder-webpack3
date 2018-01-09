@@ -1,3 +1,13 @@
+<a name="0.2.8"></a>
+## [0.2.8](https://github.com/iv-web/builder-webpack/compare/v0.2.7...v0.2.8) (2018-01-09)
+
+
+### Bug Fixes
+
+* 修复依赖引入问题. ([72073f4](https://github.com/iv-web/builder-webpack/commit/72073f4))
+
+
+
 <a name="0.2.7"></a>
 ## [0.2.7](https://github.com/iv-web/builder-webpack/compare/v0.2.6...v0.2.7) (2018-01-09)
 
