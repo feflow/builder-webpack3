@@ -1,6 +1,6 @@
 {
   "name": "builder-webpack3",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "description": "webpack项目构建器.",
   "main": "lib/index.js",
   "scripts": {
@@ -37,7 +37,7 @@
     "px2rem-loader": "^0.1.7",
     "raw-loader": "^0.5.1",
     "replace-bundle-webpack-plugin": "^1.0.0",
-    "replace-text-loader": "^0.2.0",
+    "replace-text-loader": "^0.2.1",
     "sass-loader": "^6.0.6",
     "string-replace-webpack-plugin": "^0.1.3",
     "style-loader": "^0.19.0",
