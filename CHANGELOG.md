@@ -1,3 +1,14 @@
+<a name="0.2.9"></a>
+## [0.2.9](https://github.com/iv-web/builder-webpack/compare/v0.2.8...v0.2.9) (2018-01-15)
+
+
+### Features
+
+* replace-text-loader兼容webpack2.x版本 ([7130086](https://github.com/iv-web/builder-webpack/commit/7130086))
+* 集成雪碧图功能. ([4cb899c](https://github.com/iv-web/builder-webpack/commit/4cb899c))
+
+
+
 <a name="0.2.8"></a>
 ## [0.2.8](https://github.com/iv-web/builder-webpack/compare/v0.2.7...v0.2.8) (2018-01-09)
 
