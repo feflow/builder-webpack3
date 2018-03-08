@@ -32,6 +32,7 @@ Webpack 构建器, 适用于NOW直播业务和活动类型的项目构建
         "minifyHTML": true,
         "minifyCSS": true,
         "minifyJS": true,
+        "inlineCSS": true,
         "usePx2rem": true,
         "remUnit": 100,
         "remPrecision": 8,
