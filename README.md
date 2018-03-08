@@ -99,6 +99,14 @@ inline javascript
 <script src="@tencent/report-whitelist?__inline"></script>
 ```
 
+###   开发调试
+- 执行 $ tnpm run dev  命令后会在本地的 8001 端口开启一个 WDS 服务，所有的静态资源(html, css, js, img) 都会在内存里面。可以通过 http://127.0.0.1:8001/webpack-dev-server  查看
+![](https://qpic.url.cn/feeds_pic/ajNVdqHZLLDpvNiayyEbzqB9V61CRiallnRdEKFaViaxw7pibicBKgEI8vw/)
+
+
+- Fiddler配置把之前的本地绝对路径改成 本地server 路径即可：
+![](https://qpic.url.cn/feeds_pic/Q3auHgzwzM72dIPZyXSdy8srwzIOTovf0VSaNlBzE98ueBiaibIVSHkA/)
+
 ## 版本日志
 
 [版本日志](CHANGELOG.md)
