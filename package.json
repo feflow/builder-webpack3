@@ -33,6 +33,7 @@
     "html-string-replace-webpack-plugin": "^1.0.5",
     "html-webpack-externals-plugin": "^3.6.0",
     "html-webpack-inline-source-plugin": "0.0.9",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
     "html-webpack-plugin": "^2.30.1",
     "px2rem-loader": "^0.1.7",
     "raw-loader": "^0.5.1",
