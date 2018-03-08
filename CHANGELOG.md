@@ -1,3 +1,21 @@
+<a name="0.2.11"></a>
+## [0.2.11](https://github.com/iv-web/builder-webpack/compare/v0.2.10...v0.2.11) (2018-03-08)
+
+
+### Features
+
+* 支持ES7 decorators特性 ([7130086](https://github.com/feflow/builder-webpack3/commit/f12b23e201301fdc61f850ebada5e4ff488b98c2))
+
+
+<a name="0.2.10"></a>
+## [0.2.10](https://github.com/iv-web/builder-webpack/compare/v0.2.9...v0.2.10) (2018-03-08)
+
+
+### Features
+
+* 支持生产环境inlineCSS配置 ([7130086](https://github.com/feflow/builder-webpack3/commit/88b17806872743ff3558df9cdf0da5435a1fa828))
+
+
 <a name="0.2.9"></a>
 ## [0.2.9](https://github.com/iv-web/builder-webpack/compare/v0.2.8...v0.2.9) (2018-01-15)
 
@@ -86,42 +104,11 @@
 
 <a name="0.2.0"></a>
 # [0.2.0](https://github.com/iv-web/builder-webpack/compare/v0.2.0-beta.4...v0.2.0) (2017-12-11)
-
-
-
-<a name="0.2.0-beta.4"></a>
-# [0.2.0-beta.4](https://github.com/iv-web/builder-webpack/compare/v0.2.0-beta.3...v0.2.0-beta.4) (2017-12-11)
-
-
 ### Bug Fixes
 
 * clean public folder path ([7822a3a](https://github.com/iv-web/builder-webpack/commit/7822a3a))
-
-
-
-<a name="0.2.0-beta.3"></a>
-# [0.2.0-beta.3](https://github.com/iv-web/builder-webpack/compare/v0.2.0-beta.2...v0.2.0-beta.3) (2017-12-11)
-
-
-### Bug Fixes
-
 * remove loader and plugin dependencies in project. ([da9bafc](https://github.com/iv-web/builder-webpack/commit/da9bafc))
-
-
-
-<a name="0.2.0-beta.2"></a>
-# [0.2.0-beta.2](https://github.com/iv-web/builder-webpack/compare/v0.2.0-beta.1...v0.2.0-beta.2) (2017-12-10)
-
-
-### Bug Fixes
-
 * cli show colors and repair dependencies. ([2e8640d](https://github.com/iv-web/builder-webpack/commit/2e8640d))
-
-
-
-<a name="0.2.0-beta.1"></a>
-# [0.2.0-beta.1](https://github.com/iv-web/builder-webpack/compare/v0.1.5...v0.2.0-beta.1) (2017-12-10)
-
 
 ### Features
 
@@ -163,6 +150,3 @@
 * webpack构建配置 ([56c9b55](https://github.com/iv-web/builder-webpack/commit/56c9b55))
 * 基础包通过cdn引入 ([d6763fc](https://github.com/iv-web/builder-webpack/commit/d6763fc))
 * 支持绝对路径import语法 ([33ab7c6](https://github.com/iv-web/builder-webpack/commit/33ab7c6))
-
-
-

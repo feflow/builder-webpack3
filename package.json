@@ -1,12 +1,12 @@
 {
   "name": "builder-webpack3",
-  "version": "0.2.10",
+  "version": "0.2.11",
   "description": "webpack项目构建器.",
   "main": "lib/index.js",
   "scripts": {
     "commitmsg": "validate-commit-msg",
     "commit": "git-cz ",
-    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0"
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
   },
   "repository": {
     "type": "git",
