@@ -1,3 +1,13 @@
+<a name="0.2.12"></a>
+## [0.2.12](https://github.com/iv-web/builder-webpack/compare/v0.2.11...v0.2.12) (2018-03-09)
+
+
+### Features
+
+* 增加字体解析规则. ([1c50ca9](https://github.com/iv-web/builder-webpack/commit/1c50ca9))
+
+
+
 <a name="0.2.11"></a>
 ## [0.2.11](https://github.com/iv-web/builder-webpack/compare/v0.2.10...v0.2.11) (2018-03-08)
 
