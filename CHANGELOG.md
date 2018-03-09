@@ -1,3 +1,13 @@
+<a name="0.2.13"></a>
+## [0.2.13](https://github.com/iv-web/builder-webpack/compare/v0.2.12...v0.2.13) (2018-03-09)
+
+
+### Features
+
+* 支持css后缀的解析规则. ([5878cdd](https://github.com/iv-web/builder-webpack/commit/5878cdd))
+
+
+
 <a name="0.2.12"></a>
 ## [0.2.12](https://github.com/iv-web/builder-webpack/compare/v0.2.11...v0.2.12) (2018-03-09)
 
