@@ -1,3 +1,19 @@
+<a name="0.2.15"></a>
+## [0.2.15](https://github.com/iv-web/builder-webpack/compare/v0.2.13...v0.2.15) (2018-03-11)
+
+
+### Bug Fixes
+
+* sytax error. ([04e8d28](https://github.com/iv-web/builder-webpack/commit/04e8d28))
+
+
+### Features
+
+* alias支持自定义配置. ([a8cca61](https://github.com/iv-web/builder-webpack/commit/a8cca61))
+* externals支持配置. ([5915fa7](https://github.com/iv-web/builder-webpack/commit/5915fa7))
+
+
+
 <a name="0.2.13"></a>
 ## [0.2.13](https://github.com/iv-web/builder-webpack/compare/v0.2.12...v0.2.13) (2018-03-09)
 
