@@ -1,3 +1,18 @@
+<a name="0.2.18"></a>
+## [0.2.18](https://github.com/iv-web/builder-webpack/compare/v0.2.16...v0.2.18) (2018-03-19)
+
+
+### Bug Fixes
+
+* 修复import语法错误. ([3197be6](https://github.com/iv-web/builder-webpack/commit/3197be6))
+
+
+### Features
+
+* externals引入的js lib也加上crossorigin. ([553f050](https://github.com/iv-web/builder-webpack/commit/553f050))
+
+
+
 <a name="0.2.16"></a>
 ## [0.2.16](https://github.com/iv-web/builder-webpack/compare/v0.2.15...v0.2.16) (2018-03-19)
 
