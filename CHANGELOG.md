@@ -1,3 +1,13 @@
+<a name="0.2.19"></a>
+## [0.2.19](https://github.com/iv-web/builder-webpack/compare/v0.2.18...v0.2.19) (2018-03-19)
+
+
+### Features
+
+* 集成babel-plugin-import. ([a868a1c](https://github.com/iv-web/builder-webpack/commit/a868a1c))
+
+
+
 <a name="0.2.18"></a>
 ## [0.2.18](https://github.com/iv-web/builder-webpack/compare/v0.2.16...v0.2.18) (2018-03-19)
 
