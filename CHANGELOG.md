@@ -1,3 +1,13 @@
+<a name="0.2.16"></a>
+## [0.2.16](https://github.com/iv-web/builder-webpack/compare/v0.2.15...v0.2.16) (2018-03-19)
+
+
+### Features
+
+* 给生成的js bundle增加crossorigin头,便于记录错误日志详细堆栈. ([bc7fce5](https://github.com/iv-web/builder-webpack/commit/bc7fce5))
+
+
+
 <a name="0.2.15"></a>
 ## [0.2.15](https://github.com/iv-web/builder-webpack/compare/v0.2.13...v0.2.15) (2018-03-11)
 
