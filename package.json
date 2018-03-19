@@ -50,7 +50,7 @@
     "uglify-js": "^2.8.29",
     "webpack": "^3.8.1",
     "webpack-dev-middleware": "^1.12.2",
-    "zip-webpack-plugin": "^2.1.0",
+    "offline-webpack-plugin": "^0.0.2",
     "webpack-subresource-integrity": "^1.0.4"
   },
   "devDependencies": {
