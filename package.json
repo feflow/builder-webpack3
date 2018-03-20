@@ -1,6 +1,6 @@
 {
   "name": "builder-webpack3",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "webpack项目构建器.",
   "main": "lib/index.js",
   "scripts": {
@@ -50,7 +50,7 @@
     "uglify-js": "^2.8.29",
     "webpack": "^3.8.1",
     "webpack-dev-middleware": "^1.12.2",
-    "offline-webpack-plugin": "^0.0.2",
+    "offline-webpack-plugin": "^0.0.3",
     "webpack-subresource-integrity": "^1.0.4"
   },
   "devDependencies": {
