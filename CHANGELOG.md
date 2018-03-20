@@ -1,3 +1,13 @@
+<a name="0.3.2"></a>
+## [0.3.2](https://github.com/iv-web/builder-webpack/compare/v0.3.1...v0.3.2) (2018-03-20)
+
+
+### Bug Fixes
+
+* 离线包的assets去掉url paramter. ([5da0139](https://github.com/iv-web/builder-webpack/commit/5da0139))
+
+
+
 <a name="0.3.1"></a>
 ## [0.3.1](https://github.com/iv-web/builder-webpack/compare/v0.2.19...v0.3.1) (2018-03-20)
 
