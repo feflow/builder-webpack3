@@ -1,3 +1,13 @@
+<a name="0.3.3"></a>
+## [0.3.3](https://github.com/iv-web/builder-webpack/compare/v0.3.2...v0.3.3) (2018-03-20)
+
+
+### Features
+
+* 增加process.env.NODE_ENV, 避免线上报warning. ([fcd2f3c](https://github.com/iv-web/builder-webpack/commit/fcd2f3c))
+
+
+
 <a name="0.3.2"></a>
 ## [0.3.2](https://github.com/iv-web/builder-webpack/compare/v0.3.1...v0.3.2) (2018-03-20)
 
