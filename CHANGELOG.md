@@ -1,3 +1,14 @@
+<a name="0.3.1"></a>
+## [0.3.1](https://github.com/iv-web/builder-webpack/compare/v0.2.19...v0.3.1) (2018-03-20)
+
+
+### Bug Fixes
+
+* 离线包注入version. ([213860b](https://github.com/iv-web/builder-webpack/commit/213860b))
+* 离线包问题解决. ([676b365](https://github.com/iv-web/builder-webpack/commit/676b365))
+
+
+
 <a name="0.3.0"></a>
 # [0.3.0](https://github.com/iv-web/builder-webpack/compare/v0.2.19...v0.3.0) (2018-03-19)
 
