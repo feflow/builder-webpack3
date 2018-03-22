@@ -1,3 +1,13 @@
+<a name="0.3.4"></a>
+## [0.3.4](https://github.com/iv-web/builder-webpack/compare/v0.3.3...v0.3.4) (2018-03-22)
+
+
+### Bug Fixes
+
+* 去掉离线包里面的script标签上的intergrity属性 ([ad0c5a0](https://github.com/iv-web/builder-webpack/commit/ad0c5a0))
+
+
+
 <a name="0.3.3"></a>
 ## [0.3.3](https://github.com/iv-web/builder-webpack/compare/v0.3.2...v0.3.3) (2018-03-20)
 
