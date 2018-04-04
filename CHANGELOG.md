@@ -1,3 +1,13 @@
+<a name="0.3.5"></a>
+## [0.3.5](https://github.com/iv-web/builder-webpack/compare/v0.3.4...v0.3.5) (2018-04-04)
+
+
+### Features
+
+* 增加loader 的可配置选项 ([2b0ddc2](https://github.com/iv-web/builder-webpack/commit/2b0ddc2))
+
+
+
 <a name="0.3.4"></a>
 ## [0.3.4](https://github.com/iv-web/builder-webpack/compare/v0.3.3...v0.3.4) (2018-03-22)
 
