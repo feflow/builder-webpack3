@@ -1,3 +1,13 @@
+<a name="0.3.6"></a>
+## [0.3.6](https://github.com/iv-web/builder-webpack/compare/v0.3.5...v0.3.6) (2018-04-05)
+
+
+### Bug Fixes
+
+* 修复PR时import导致的报错. ([a2cf19d](https://github.com/iv-web/builder-webpack/commit/a2cf19d))
+
+
+
 <a name="0.3.5"></a>
 ## [0.3.5](https://github.com/iv-web/builder-webpack/compare/v0.3.4...v0.3.5) (2018-04-04)
 
