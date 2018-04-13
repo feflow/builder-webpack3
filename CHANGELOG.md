@@ -1,3 +1,19 @@
+<a name="0.3.7"></a>
+## [0.3.7](https://github.com/iv-web/builder-webpack/compare/v0.3.6...v0.3.7) (2018-04-13)
+
+
+### Bug Fixes
+
+* 打包的cdn和离线包路径修复. ([0e8db39](https://github.com/iv-web/builder-webpack/commit/0e8db39))
+
+
+### Features
+
+* 开发阶段增加soucemap. ([09fa0f2](https://github.com/iv-web/builder-webpack/commit/09fa0f2))
+* 支持域名可配置. ([566dc43](https://github.com/iv-web/builder-webpack/commit/566dc43))
+
+
+
 <a name="0.3.7-beta.1"></a>
 ## [0.3.7-beta.1](https://github.com/iv-web/builder-webpack/compare/v0.3.6...v0.3.7-beta.1) (2018-04-13)
 
