@@ -1,3 +1,14 @@
+<a name="0.3.8"></a>
+## [0.3.8](https://github.com/iv-web/builder-webpack/compare/v0.3.7...v0.3.8) (2018-04-20)
+
+
+### Features
+
+* 使用babel-preset-env替代babel-preset-es2015 ([3a52336](https://github.com/iv-web/builder-webpack/commit/3a52336))
+* 支持纯html(没有入口文件)的场景。 ([3d00596](https://github.com/iv-web/builder-webpack/commit/3d00596))
+
+
+
 <a name="0.3.7"></a>
 ## [0.3.7](https://github.com/iv-web/builder-webpack/compare/v0.3.6...v0.3.7) (2018-04-13)
 
