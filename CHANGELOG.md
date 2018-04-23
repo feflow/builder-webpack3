@@ -1,3 +1,13 @@
+<a name="0.3.9"></a>
+## [0.3.9](https://github.com/iv-web/builder-webpack/compare/v0.3.8...v0.3.9) (2018-04-23)
+
+
+### Bug Fixes
+
+* 兼容目前其它的包（依赖babel-preset-es2015） ([7366109](https://github.com/iv-web/builder-webpack/commit/7366109))
+
+
+
 <a name="0.3.8"></a>
 ## [0.3.8](https://github.com/iv-web/builder-webpack/compare/v0.3.7...v0.3.8) (2018-04-20)
 
