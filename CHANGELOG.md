@@ -1,3 +1,13 @@
+<a name="0.3.10-alpha.0"></a>
+## [0.3.10-alpha.0](https://github.com/iv-web/builder-webpack/compare/v0.3.9...v0.3.10-alpha.0) (2018-04-26)
+
+
+### Features
+
+* 设置loader的npm包查找的相对路径. ([641d8d6](https://github.com/iv-web/builder-webpack/commit/641d8d6))
+
+
+
 <a name="0.3.9"></a>
 ## [0.3.9](https://github.com/iv-web/builder-webpack/compare/v0.3.8...v0.3.9) (2018-04-23)
 
