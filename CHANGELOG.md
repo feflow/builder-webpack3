@@ -1,3 +1,13 @@
+<a name="0.3.10-alpha.1"></a>
+## [0.3.10-alpha.1](https://github.com/iv-web/builder-webpack/compare/v0.3.10-alpha.0...v0.3.10-alpha.1) (2018-04-27)
+
+
+### Features
+
+* babel相关配置交给开发者，在.babelrc进行配置. ([9b4d130](https://github.com/iv-web/builder-webpack/commit/9b4d130))
+
+
+
 <a name="0.3.10-alpha.0"></a>
 ## [0.3.10-alpha.0](https://github.com/iv-web/builder-webpack/compare/v0.3.9...v0.3.10-alpha.0) (2018-04-26)
 
