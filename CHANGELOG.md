@@ -1,3 +1,14 @@
+<a name="0.3.12"></a>
+## [0.3.12](https://github.com/iv-web/builder-webpack/compare/v0.3.10...v0.3.12) (2018-04-27)
+
+
+### Bug Fixes
+
+* externals去掉http schema的头部. ([cc8d351](https://github.com/iv-web/builder-webpack/commit/cc8d351))
+* 增加node-sass依赖。 ([c74bcda](https://github.com/iv-web/builder-webpack/commit/c74bcda))
+
+
+
 <a name="0.3.10"></a>
 ## [0.3.10](https://github.com/iv-web/builder-webpack/compare/v0.3.10-alpha.1...v0.3.10) (2018-04-27)
 
