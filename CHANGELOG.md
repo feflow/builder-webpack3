@@ -1,3 +1,13 @@
+<a name="0.3.14"></a>
+## [0.3.14](https://github.com/iv-web/builder-webpack/compare/v0.3.13...v0.3.14) (2018-04-28)
+
+
+### Features
+
+* 捷豹部署平台的Loader路径. ([5b99f63](https://github.com/iv-web/builder-webpack/commit/5b99f63))
+
+
+
 <a name="0.3.13"></a>
 ## [0.3.13](https://github.com/iv-web/builder-webpack/compare/v0.3.12...v0.3.13) (2018-04-28)
 
