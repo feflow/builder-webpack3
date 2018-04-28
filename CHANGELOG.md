@@ -1,3 +1,13 @@
+<a name="0.3.13"></a>
+## [0.3.13](https://github.com/iv-web/builder-webpack/compare/v0.3.12...v0.3.13) (2018-04-28)
+
+
+### Bug Fixes
+
+* 增加对现有版本的兼容. ([2917325](https://github.com/iv-web/builder-webpack/commit/2917325))
+
+
+
 <a name="0.3.12"></a>
 ## [0.3.12](https://github.com/iv-web/builder-webpack/compare/v0.3.10...v0.3.12) (2018-04-27)
 
