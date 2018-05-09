@@ -1,6 +1,6 @@
 {
   "name": "builder-webpack3",
-  "version": "0.3.14",
+  "version": "0.3.15",
   "description": "webpack项目构建器.",
   "main": "lib/index.js",
   "scripts": {
