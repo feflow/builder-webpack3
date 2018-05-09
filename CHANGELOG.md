@@ -1,3 +1,13 @@
+<a name="0.3.15"></a>
+## [0.3.15](https://github.com/iv-web/builder-webpack/compare/v0.3.14...v0.3.15) (2018-05-09)
+
+
+### Features
+
+* 支持不传入bizName, 使用于 now.qq.com/index.html 官网的场景. ([93f932d](https://github.com/iv-web/builder-webpack/commit/93f932d))
+
+
+
 <a name="0.3.14"></a>
 ## [0.3.14](https://github.com/iv-web/builder-webpack/compare/v0.3.13...v0.3.14) (2018-04-28)
 
