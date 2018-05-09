@@ -1,3 +1,13 @@
+<a name="0.4.0-beta.0"></a>
+# [0.4.0-beta.0](https://github.com/iv-web/builder-webpack/compare/v0.3.15...v0.4.0-beta.0) (2018-05-09)
+
+
+### Features
+
+* 支持optional chaining语法糖. ([dddb9d5](https://github.com/iv-web/builder-webpack/commit/dddb9d5))
+
+
+
 <a name="0.3.15"></a>
 ## [0.3.15](https://github.com/iv-web/builder-webpack/compare/v0.3.14...v0.3.15) (2018-05-09)
 
