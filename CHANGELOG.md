@@ -1,3 +1,13 @@
+<a name="0.3.16"></a>
+## [0.3.16](https://github.com/iv-web/builder-webpack/compare/v0.3.15...v0.3.16) (2018-05-10)
+
+
+### Features
+
+* 支持官网场景. ([dd641fc](https://github.com/iv-web/builder-webpack/commit/dd641fc))
+
+
+
 <a name="0.3.15"></a>
 ## [0.3.15](https://github.com/iv-web/builder-webpack/compare/v0.3.14...v0.3.15) (2018-05-09)
 
