@@ -1,6 +1,6 @@
 {
   "name": "builder-webpack3",
-  "version": "0.3.17",
+  "version": "0.3.18",
   "description": "webpack项目构建器.",
   "main": "lib/index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "url": "https://github.com/iv-web/builder-webpack"
   },
   "configs": {
-    "compatibleVersion": ">=0.3.13"
+    "compatibleVersion": ">=0.3.18"
   },
   "keywords": [
     "webpack",
