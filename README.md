@@ -12,7 +12,7 @@ Webpack 构建器, 适用于NOW直播业务和活动类型的项目构建
 
 - 对H5开发友好，默认集成 Rem 方案，解决适配问题
 - 支持 SCSS 和 JS 模块 import 时的绝对路径写法
-- 支持多页面打包的开发方式
+- 支持多页面打包的开发方式
 - 支持 FIS3 的 html 文件 inline 语法糖
 - 支持雪碧图(图片后缀加__sprite)
 - 使用Happypack 多实例构建，飞一般的构建速度
@@ -65,7 +65,7 @@ $ npm install feflow-cli -g
 }
 ```
 
-### 命令
+### 命令
 
 ```sh
 $ feflow dev      # 本地开发时的命令
