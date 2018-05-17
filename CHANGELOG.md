@@ -1,3 +1,13 @@
+<a name="0.3.18"></a>
+## [0.3.18](https://github.com/iv-web/builder-webpack/compare/v0.3.17...v0.3.18) (2018-05-17)
+
+
+### Features
+
+* code split, 抽离出公共js文件 ([9b577af](https://github.com/iv-web/builder-webpack/commit/9b577af))
+
+
+
 <a name="0.3.16"></a>
 ## [0.3.16](https://github.com/iv-web/builder-webpack/compare/v0.3.15...v0.3.16) (2018-05-10)
 
