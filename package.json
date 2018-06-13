@@ -1,6 +1,6 @@
 {
   "name": "builder-webpack3",
-  "version": "0.3.19",
+  "version": "0.3.20",
   "description": "webpack项目构建器.",
   "main": "lib/index.js",
   "scripts": {
@@ -34,21 +34,15 @@
     "clean-webpack-plugin": "^0.1.17",
     "css-loader": "^0.28.7",
     "express": "^4.16.2",
-    "extract-text-webpack-plugin": "^3.0.2",
     "file-loader": "^1.1.5",
     "glob": "^7.1.2",
     "happypack": "^4.0.0",
     "html-loader": "^0.5.1",
-    "html-string-replace-webpack-plugin": "^1.0.5",
-    "html-webpack-externals-plugin": "^3.6.0",
     "html-webpack-inline-source-plugin": "0.0.9",
-    "html-webpack-plugin": "^2.30.1",
     "node-sass": "^4.9.0",
-    "offline-webpack-plugin": "^0.0.3",
     "osenv": "^0.1.5",
     "px2rem-loader": "^0.1.7",
     "raw-loader": "^0.5.1",
-    "replace-bundle-webpack-plugin": "^1.0.0",
     "replace-text-loader": "^0.2.1",
     "sass-loader": "^6.0.6",
     "sprites-loader": "^0.7.0",
@@ -57,8 +51,7 @@
     "ts-loader": "^4.3.0",
     "uglify-js": "^2.8.29",
     "webpack": "^3.8.1",
-    "webpack-dev-middleware": "^1.12.2",
-    "webpack-subresource-integrity": "^1.0.4"
+    "webpack-dev-middleware": "^1.12.2"
   },
   "devDependencies": {
     "commitizen": "^2.3.0",
