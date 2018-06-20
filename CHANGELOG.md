@@ -1,3 +1,18 @@
+<a name="0.3.21"></a>
+## [0.3.21](https://github.com/iv-web/builder-webpack/compare/v0.3.18...v0.3.21) (2018-06-20)
+
+
+### Bug Fixes
+
+* 雪碧图bug修复. ([ed78054](https://github.com/iv-web/builder-webpack/commit/ed78054))
+
+
+### Features
+
+* 增加对TS语法的支持。 ([4e0dae7](https://github.com/iv-web/builder-webpack/commit/4e0dae7))
+
+
+
 <a name="0.3.18"></a>
 ## [0.3.18](https://github.com/iv-web/builder-webpack/compare/v0.3.17...v0.3.18) (2018-05-17)
 
