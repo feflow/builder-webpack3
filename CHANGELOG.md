@@ -1,3 +1,13 @@
+<a name="0.3.32"></a>
+## [0.3.32](https://github.com/iv-web/builder-webpack/compare/v0.3.31...v0.3.32) (2018-07-04)
+
+
+### Features
+
+* 支持feflow.js配置文件. ([9e94898](https://github.com/iv-web/builder-webpack/commit/9e94898))
+
+
+
 <a name="0.3.21"></a>
 ## [0.3.21](https://github.com/iv-web/builder-webpack/compare/v0.3.18...v0.3.21) (2018-06-20)
 
