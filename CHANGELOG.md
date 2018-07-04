@@ -1,3 +1,13 @@
+<a name="0.3.33"></a>
+## [0.3.33](https://github.com/iv-web/builder-webpack/compare/v0.3.32...v0.3.33) (2018-07-04)
+
+
+### Bug Fixes
+
+* 雪碧图修复. ([e4d7537](https://github.com/iv-web/builder-webpack/commit/e4d7537))
+
+
+
 <a name="0.3.32"></a>
 ## [0.3.32](https://github.com/iv-web/builder-webpack/compare/v0.3.31...v0.3.32) (2018-07-04)
 
