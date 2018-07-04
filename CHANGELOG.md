@@ -1,3 +1,13 @@
+<a name="0.3.34"></a>
+## [0.3.34](https://github.com/iv-web/builder-webpack/compare/v0.3.33...v0.3.34) (2018-07-04)
+
+
+### Bug Fixes
+
+* feflow.js导致的路径问题修复. ([042ff66](https://github.com/iv-web/builder-webpack/commit/042ff66))
+
+
+
 <a name="0.3.33"></a>
 ## [0.3.33](https://github.com/iv-web/builder-webpack/compare/v0.3.32...v0.3.33) (2018-07-04)
 
