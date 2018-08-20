@@ -94,13 +94,16 @@ $ feflow build    # 发布时的打包命令, 打出的包在工程的public目
 
 ### 代理设置
 
+- 现在的配置只需要一行即可搞定
+
+![](https://p.qpic.cn/qqconadmin/0/c55efe2c1f394361a455472f4b554b22/0)
+
 - 执行 `feflow dev` 命令后会在本地的 8001 端口开启一个 WDS 服务，所有的静态资源(html, css, js, img) 都会在内存里面。可以通过 http://127.0.0.1:8001/webpack-dev-server  查看
 
 ![](https://qpic.url.cn/feeds_pic/ajNVdqHZLLDpvNiayyEbzqB9V61CRiallnRdEKFaViaxw7pibicBKgEI8vw/)
 
-- Fiddler配置把之前的本地绝对路径改成 本地server 路径即可：
-
-![](https://qpic.url.cn/feeds_pic/Q3auHgzwzM72dIPZyXSdy8srwzIOTovf0VSaNlBzE98ueBiaibIVSHkA/)
+所有同级请求都会被转发到本地
+![](https://p.qpic.cn/qqconadmin/0/1b18ceb380594eef9192e02b73ed55eb/0)
 
 ## 版本日志
 
