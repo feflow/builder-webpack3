@@ -57,7 +57,9 @@
   "devDependencies": {
     "commitizen": "^2.3.0",
     "conventional-changelog-cli": "^1.2.0",
+    "http-proxy-middleware": "^0.18.0",
     "husky": "^0.13.1",
-    "validate-commit-msg": "^2.11.1"
+    "validate-commit-msg": "^2.11.1",
+    "webpack-hot-middleware": "^2.22.3"
   }
 }
