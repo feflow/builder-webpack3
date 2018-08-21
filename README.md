@@ -102,6 +102,22 @@ $ feflow build    # 发布时的打包命令, 打出的包在工程的public目
 
 ![](https://qpic.url.cn/feeds_pic/Q3auHgzwzM72dIPZyXSdy8srwzIOTovf0VSaNlBzE98ueBiaibIVSHkA/)
 
+### 热更新支持
+
+- 如果要支持热更新，需要再增加一条代理`_webpack_hmr`的配置，如：
+
+`/^https?://now\.qq\.com/(__webpack_hmr)$/ http://127.0.0.1:8001/$1`
+
+- 在项目中，用`react-hot-loader`将`pageComponent`变为可接受热更新的组件
+
+```js
+import { hot } from 'react-hot-loader'
+class pageComponent extends Component {
+    ...
+}
+export default hot(module)(pageComponent)
+```
+
 ## 版本日志
 
 [版本日志](CHANGELOG.md)
