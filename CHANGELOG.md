@@ -1,3 +1,18 @@
+<a name="0.4.0"></a>
+# [0.4.0](https://github.com/iv-web/builder-webpack/compare/v0.3.36...v0.4.0) (2018-08-21)
+
+
+### Bug Fixes
+
+* 修改注释，去除不必要依赖 ([d5d8c9f](https://github.com/iv-web/builder-webpack/commit/d5d8c9f))
+* 开放builder-webpack-core版本 ([08457bf](https://github.com/iv-web/builder-webpack/commit/08457bf))
+
+### Features
+
+* 兼容原来的代理配置，去除不必要的依赖库 ([c0b752f](https://github.com/iv-web/builder-webpack/commit/c0b752f))
+* 支持热更新，开发环境使用publicPath方便配代理 ([873a038](https://github.com/iv-web/builder-webpack/commit/873a038))
+
+
 <a name="0.3.34"></a>
 ## [0.3.34](https://github.com/iv-web/builder-webpack/compare/v0.3.33...v0.3.34) (2018-07-04)
 
