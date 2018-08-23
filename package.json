@@ -1,6 +1,6 @@
 {
   "name": "builder-webpack3",
-  "version": "0.4.0",
+  "version": "0.4.3-alpha.0",
   "description": "webpack项目构建器.",
   "main": "lib/index.js",
   "scripts": {
@@ -59,6 +59,6 @@
     "commitizen": "^2.3.0",
     "conventional-changelog-cli": "^1.2.0",
     "husky": "^0.13.1",
-    "validate-commit-msg": "^2.11.1",
+    "validate-commit-msg": "^2.11.1"
   }
 }
