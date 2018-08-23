@@ -13,7 +13,7 @@
     "url": "https://github.com/iv-web/builder-webpack"
   },
   "configs": {
-    "compatibleVersion": ">=0.4.0"
+    "compatibleVersion": ">=0.4.3"
   },
   "keywords": [
     "webpack",
