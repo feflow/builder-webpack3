@@ -52,6 +52,7 @@
     "uglify-js": "^2.8.29",
     "webpack": "^3.8.1",
     "webpack-dev-middleware": "^1.12.2",
+    "webpack-hot-middleware": "^2.22.3",
     "webview-preload-webpack-plugin": "^1.0.0"
   },
   "devDependencies": {
@@ -59,6 +60,5 @@
     "conventional-changelog-cli": "^1.2.0",
     "husky": "^0.13.1",
     "validate-commit-msg": "^2.11.1",
-    "webpack-hot-middleware": "^2.22.3"
   }
 }
