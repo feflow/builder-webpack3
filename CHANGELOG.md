@@ -1,3 +1,13 @@
+<a name="0.4.3"></a>
+## [0.4.3](https://github.com/iv-web/builder-webpack/compare/v0.4.3-alpha.0...v0.4.3) (2018-08-23)
+
+
+### Features
+
+* 增加less支持. ([23f633a](https://github.com/iv-web/builder-webpack/commit/23f633a))
+
+
+
 <a name="0.4.0"></a>
 # [0.4.0](https://github.com/iv-web/builder-webpack/compare/v0.3.36...v0.4.0) (2018-08-21)
 
