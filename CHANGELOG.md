@@ -1,3 +1,13 @@
+<a name="0.4.5"></a>
+## [0.4.5](https://github.com/iv-web/builder-webpack/compare/v0.4.4...v0.4.5) (2018-09-03)
+
+
+### Bug Fixes
+
+* node_modules里面的内容不编译. ([b50f7b5](https://github.com/iv-web/builder-webpack/commit/b50f7b5))
+
+
+
 <a name="0.4.4"></a>
 ## [0.4.4](https://github.com/iv-web/builder-webpack/compare/v0.4.3-alpha.0...v0.4.4) (2018-08-24)
 
