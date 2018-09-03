@@ -6,7 +6,8 @@
   "scripts": {
     "commitmsg": "validate-commit-msg",
     "commit": "git-cz ",
-    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
+    "test": "mocha ./test/template-project/test.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,9 @@
     "webpack",
     "builder",
     "feflow"
+  ],
+  "files": [
+    "lib"
   ],
   "dependencies": {
     "autoprefixer-loader": "^3.2.0",
@@ -37,7 +41,6 @@
     "less": "^3.8.0",
     "express": "^4.16.2",
     "file-loader": "^1.1.5",
-    "glob": "^7.1.2",
     "happypack": "^4.0.0",
     "html-loader": "^0.5.1",
     "less-loader": "^4.1.0",
@@ -60,7 +63,10 @@
   "devDependencies": {
     "commitizen": "^2.3.0",
     "conventional-changelog-cli": "^1.2.0",
+    "glob-all": "^3.1.0",
     "husky": "^0.13.1",
+    "mocha": "^5.2.0",
+    "rimraf": "^2.6.2",
     "validate-commit-msg": "^2.11.1"
   }
 }
