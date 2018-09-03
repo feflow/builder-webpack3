@@ -5,14 +5,15 @@
   "main": "webpack.config.js",
   "scripts": {
     "dev": "webpack-dev-server --config webpack.dev.js --progress --colors",
-    "build": "webpack --config webpack.config.js --env production --progress --colors"
+    "build": "webpack --config webpack.config.js --env production --progress --colors",
+    "test": "node ./index.js"
   },
   "dependencies": {
+    "@material-ui/core": "^3.0.3",
     "classnames": "2.2.5",
     "eruda": "^1.1.3",
     "humps": "*",
     "isomorphic-fetch": "2.0.1",
-    "material-ui": "^1.0.0-beta.38",
     "process": "*",
     "react": "^16.0.2",
     "react-dom": "^16.0.2",
@@ -25,20 +26,10 @@
     "redux-thunk": "2.0.1"
   },
   "devDependencies": {
-    "babel-loader": "^7.1.2",
-    "babel-plugin-import": "^1.6.6",
-    "babel-plugin-transform-decorators-legacy": "^1.3.4",
-    "babel-preset-es2015": "^6.24.1",
-    "babel-preset-react": "^6.24.1",
-    "babel-preset-stage-0": "^6.24.1",
-    "builder-webpack3": "^0.4.0",
     "commitizen": "^2.3.0",
     "conventional-changelog-cli": "^1.2.0",
     "husky": "^0.13.1",
-    "node-sass": "^4.7.2",
     "validate-commit-msg": "^2.11.1",
-    "webpack": "^3.8.1",
-    "webpack-cli": "^3.1.0",
-    "webpack-dev-server": "^2.9.1"
+    "webpack": "^3.8.1"
   }
 }
