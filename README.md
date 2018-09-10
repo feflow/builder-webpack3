@@ -1,3 +1,5 @@
+[![](https://img.shields.io/travis/feflow/builder-webpack3.svg)](https://travis-ci.org/feflow/builder-webpack3)
+
 # builder-webpack
 
 
@@ -117,6 +119,12 @@ class pageComponent extends Component {
 }
 export default hot(module)(pageComponent)
 ```
+
+### 测试
+
+1. `git clone`这个用于烟雾测试的[模板项目](https://github.com/feflow/generator-smoking-test)
+2. 配置`.travis.yml`，可以参考模板项目[README](https://github.com/feflow/generator-smoking-test)
+3. 在[Travis-ci](https://travis-ci.org/feflow/builder-webpack3)中打开此项目的自动构建
 
 ## 版本日志
 
