@@ -1,3 +1,19 @@
+<a name="0.4.6"></a>
+## [0.4.6](https://github.com/iv-web/builder-webpack/compare/v0.4.5...v0.4.6) (2018-09-11)
+
+
+### Bug Fixes
+
+* 删除掉 Webview 预加载的插件 ([761759f](https://github.com/iv-web/builder-webpack/commit/761759f))
+
+
+### Features
+
+* 增加测试用模板，以及相关测试代码 ([31af928](https://github.com/iv-web/builder-webpack/commit/31af928))
+* 更新package.json，更新test.js，删除public ([63c893e](https://github.com/iv-web/builder-webpack/commit/63c893e))
+
+
+
 <a name="0.4.5"></a>
 ## [0.4.5](https://github.com/iv-web/builder-webpack/compare/v0.4.4...v0.4.5) (2018-09-03)
 
