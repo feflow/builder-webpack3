@@ -1,3 +1,13 @@
+<a name="0.4.7"></a>
+## [0.4.7](https://github.com/iv-web/builder-webpack/compare/v0.4.6...v0.4.7) (2018-09-20)
+
+
+### Features
+
+* 支持设置outDir ([6769eb8](https://github.com/iv-web/builder-webpack/commit/6769eb8))
+
+
+
 <a name="0.4.6"></a>
 ## [0.4.6](https://github.com/iv-web/builder-webpack/compare/v0.4.5...v0.4.6) (2018-09-11)
 
