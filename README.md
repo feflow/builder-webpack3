@@ -35,6 +35,7 @@ $ npm install feflow-cli -g
 {
     "builderType": "builder-webpack3",
     "builderOptions": {
+        "outDir": "dist",                                    // 资源输出路径，默认 public
         "product": "now",                                    // 产品，此处可以是 now 或者 shangfen
         "domain": "now.qq.com",                              // 域名，离线包的域名需要使用
         "cdn": "11.url.cn",                                  // 资源发布到的cdn名称
