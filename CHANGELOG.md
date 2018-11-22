@@ -1,3 +1,18 @@
+<a name="0.4.9"></a>
+## [0.4.9](https://github.com/iv-web/builder-webpack/compare/v0.4.7...v0.4.9) (2018-11-22)
+
+
+### Bug Fixes
+
+* 支持 ios8 机型的 autoprefix ([610fb4a](https://github.com/iv-web/builder-webpack/commit/610fb4a))
+
+
+### Features
+
+* 支持css热更新 ([dcd7fa6](https://github.com/iv-web/builder-webpack/commit/dcd7fa6))
+
+
+
 <a name="0.4.7"></a>
 ## [0.4.7](https://github.com/iv-web/builder-webpack/compare/v0.4.6...v0.4.7) (2018-09-20)
 
