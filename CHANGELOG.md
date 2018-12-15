@@ -1,3 +1,13 @@
+<a name="0.4.10"></a>
+## [0.4.10](https://github.com/iv-web/builder-webpack/compare/v0.4.9...v0.4.10) (2018-12-15)
+
+
+### Features
+
+* support global-style loader path ([f5a3e7c](https://github.com/iv-web/builder-webpack/commit/f5a3e7c))
+
+
+
 <a name="0.4.9"></a>
 ## [0.4.9](https://github.com/iv-web/builder-webpack/compare/v0.4.7...v0.4.9) (2018-11-22)
 
