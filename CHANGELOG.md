@@ -1,3 +1,14 @@
+<a name="0.4.12"></a>
+## [0.4.12](https://github.com/iv-web/builder-webpack/compare/v0.4.11...v0.4.12) (2018-12-31)
+
+
+### Bug Fixes
+
+* fix dev mode loader path ([84d635e](https://github.com/iv-web/builder-webpack/commit/84d635e))
+* 修复开发环境下的图片重复问题 ([c107356](https://github.com/iv-web/builder-webpack/commit/c107356))
+
+
+
 <a name="0.4.10"></a>
 ## [0.4.10](https://github.com/iv-web/builder-webpack/compare/v0.4.9...v0.4.10) (2018-12-15)
 
