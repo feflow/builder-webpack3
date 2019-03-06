@@ -1,3 +1,18 @@
+<a name="0.4.15"></a>
+## [0.4.15](https://github.com/iv-web/builder-webpack/compare/v0.4.13...v0.4.15) (2019-03-06)
+
+
+### Bug Fixes
+
+* 修复静态资源离线包的bug ([097d05f](https://github.com/iv-web/builder-webpack/commit/097d05f))
+
+
+### Features
+
+* 错误构建阶段抛出，避免发布到线上 ([89e4c19](https://github.com/iv-web/builder-webpack/commit/89e4c19))
+
+
+
 <a name="0.4.12"></a>
 ## [0.4.12](https://github.com/iv-web/builder-webpack/compare/v0.4.11...v0.4.12) (2018-12-31)
 
