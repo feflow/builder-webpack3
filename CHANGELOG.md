@@ -1,3 +1,15 @@
+<a name="0.4.19"></a>
+## [0.4.19](https://github.com/iv-web/builder-webpack/compare/v0.4.16...v0.4.19) (2019-04-24)
+
+
+### Bug Fixes
+
+* remove pic compress ([d8c401c](https://github.com/iv-web/builder-webpack/commit/d8c401c))
+* 修复上下文bug ([8a5d621](https://github.com/iv-web/builder-webpack/commit/8a5d621))
+* 锁住html-webpack-include-assets-plugin的版本号 ([d0e6237](https://github.com/iv-web/builder-webpack/commit/d0e6237))
+
+
+
 <a name="0.4.15"></a>
 ## [0.4.15](https://github.com/iv-web/builder-webpack/compare/v0.4.13...v0.4.15) (2019-03-06)
 
