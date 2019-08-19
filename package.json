@@ -1,6 +1,6 @@
 {
   "name": "builder-webpack3",
-  "version": "0.4.22",
+  "version": "0.4.23",
   "description": "webpack项目构建器.",
   "main": "lib/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "license": "MIT",
   "configs": {
-    "compatibleVersion": ">=0.4.22"
+    "compatibleVersion": ">=0.4.23"
   },
   "keywords": [
     "webpack",
@@ -45,7 +45,7 @@
     "happypack": "^4.0.0",
     "html-loader": "^0.5.1",
     "html-webpack-inline-source-plugin": "0.0.9",
-    "less": "^3.8.0",
+    "less": "3.8.0",
     "less-loader": "^4.1.0",
     "node-sass": "^4.9.0",
     "osenv": "^0.1.5",
